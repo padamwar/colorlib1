@@ -105,6 +105,7 @@ main{
     
     grid-area: nav;
     background: #1d4052;
+    background-image: url("web2.jpg");
     color: #fff;
     padding: 0px;
     font-family: sans-serif;
